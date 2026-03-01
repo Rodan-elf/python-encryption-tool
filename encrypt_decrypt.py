@@ -34,7 +34,7 @@ if __name__ == "__main__":
     print("--- Python Encryption Tool ---")
     
     # Configuration
-    secret_message = "Greeting to the Bat Cyber Team!"
+    secret_message = "Greeting to the Bat Cyber Team"
     key = 7
     
     print(f"Original Message: {secret_message}")
