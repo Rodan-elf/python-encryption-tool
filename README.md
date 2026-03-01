@@ -43,7 +43,7 @@ def caesar_cipher(text, shift, mode):
     return result
 
 # --- Testing Zone ---
-secret_message = "Greetings to the Bat Cyber Team!"
+secret_message = "Greetings to the Bat Cyber Team"
 shift_key = 7
 
 # 1. Encryption
